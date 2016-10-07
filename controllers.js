@@ -13,6 +13,3 @@ angular.module('starter.controllers', [])
 		return sqlPrd.delete("")
 	}
 }
-
-
-	)
